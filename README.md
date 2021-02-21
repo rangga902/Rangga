@@ -6,7 +6,7 @@ pkg install git
 pkg insall python2
 rm -rf Rangga
 git clone https://github.com/rangga902/Rangga
-cd infect
+cd Rangga
 chmod +x *
 python2 Rangga.py
 ```
